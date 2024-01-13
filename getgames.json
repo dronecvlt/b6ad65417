@@ -4,7 +4,7 @@
   "games": {
     "wbox": {
       "name": "Worldbox",
-      "link": "https://www.dropbox.com/s/zs76r7frsvq3vti/WorldBox.zip?dl=1"
+      "link": "https://www.dropbox.com/s/zs76r7frsvq3vti/WorldBox.zip?dl=1",
       "exec": "worldbox.exe"
     },
     "pdta": {
