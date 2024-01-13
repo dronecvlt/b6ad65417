@@ -1,0 +1,16 @@
+{"meta": {
+  "name": "Getgames Repository",
+  "desc": "The name says itself: get games here."},
+  "games": {
+    "wbox": {
+      "name": "Worldbox",
+      "link": "https://www.dropbox.com/s/zs76r7frsvq3vti/WorldBox.zip?dl=1"
+      "exec": "worldbox.exe"
+    },
+    "pdta": {
+      "name": "Please, Don't Touch Anything",
+      "link": "https://www.dropbox.com/scl/fi/i53jbkn943gpk3bwnbe43/PDTA_Windows_DRMFree_1.6.6.zip?rlkey=4sb2m96ddv21yav2fn7qeba4t&dl=1",
+      "exec": "DontTouchAnything.exe"
+    }
+  }
+}
