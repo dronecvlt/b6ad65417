@@ -12,6 +12,6 @@
     "undertale": {
         "name": "Undertale",
         "link": "https://f-cdn.ggntw.com/cfMQ2DgCj8Z4Np63/Undertale.zip",
-        "exec": ".\Undertale\Undertale.exe"
+        "exec": ".\\Undertale\\Undertale.exe"
     }
 }
